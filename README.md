@@ -23,10 +23,5 @@ Mas para que este site ?  O foco seria como se fosse um pacote da *Alura* , "Alu
 > Página Quinta : Aonde você pode visualizar o Alura plus.
 ![Página quinta](https://github.com/RIZONCIO/Alura-Plus-Aprendendo-/assets/61835786/48c55c19-0c09-472c-b718-e64040761015)
 
-## Teste o AluraPlus!
-
-Gostaria de experimentar o AluraPlus ? Clique no botão abaixo para acessar o teste do site.
-
-[![Teste Agora](https://github.com/RIZONCIO/AluraBoock/assets/61835786/591c23f3-b634-4a42-8dd2-d3d936ae8a78)](https://alura-plus-kappa-green.vercel.app/)
 
 É o projeto é bem simplesinho obviamente limpo esse projeto é um projeto de estudo então não espere muito dele obrigado por ter lido e espero que tenha gostado do projeto. 
